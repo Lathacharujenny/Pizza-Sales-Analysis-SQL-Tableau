@@ -50,12 +50,16 @@ The analysis addressed the following questions:
 
 ## Key Insights
 - Total revenue generated was
+  
   ![image](https://github.com/user-attachments/assets/8c278d0d-3100-400d-9393-0028eb89d53d)
 - The highest-priced pizza was
+  
   ![image](https://github.com/user-attachments/assets/e694ac7e-7e40-4c7c-a265-f569db57846c)
 - The top 5 pizza types
+  
   ![image](https://github.com/user-attachments/assets/324e626b-9870-4e7a-b09d-0e0c907887cd)
 - The percentage contribution of each category pizza type to total revenue.
+  
   ![image](https://github.com/user-attachments/assets/9254cefc-b680-4a5d-af20-1a6b2e769374)
 
 
