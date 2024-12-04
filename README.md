@@ -68,5 +68,5 @@ A detailed PDF report containing:
 - Screenshots of query outputs and visualizations.
 - A summary of findings presented in slides.
 
-You can view the report here: [Pizza Sales Analysis Report](./Pizza-Sales-Analysis-Report.pdf)
+You can view the report here: [Pizza Sales Analysis Report](Pizza-Sales-Analysis-Report.pdf)
 
