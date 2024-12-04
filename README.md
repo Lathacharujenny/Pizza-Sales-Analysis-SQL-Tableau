@@ -7,8 +7,7 @@
 4. [Questions Answered](#questions-answered)
 6. [Key Insights](#key-insights)
 7. [Generated Report](#generated-report)
-8. [How to Use This Repository](#how-to-use-this-repository)
-9. [Future Work](#future-work)
+
 
 ---
 
@@ -69,5 +68,5 @@ A detailed PDF report containing:
 - Screenshots of query outputs and visualizations.
 - A summary of findings presented in slides.
 
-You can view the report here: [Pizza Sales Analysis Report](./Pizza Sales Analysis.pdf)
+You can view the report here: [Pizza Sales Analysis Report](./Pizza-Sales-Analysis-Report.pdf)
 
