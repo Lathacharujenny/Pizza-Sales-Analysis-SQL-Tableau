@@ -1,6 +1,5 @@
 # Pizza Sales Dataset: SQL Analysis
-![image](https://github.com/user-attachments/assets/5120085d-6367-4d2a-a01a-c9f3b782d640)
-
+![image](https://github.com/user-attachments/assets/1528c998-aee7-4a1a-8556-48fb384255c9) ![image](https://github.com/user-attachments/assets/036608eb-20e7-4756-aa56-8e8891b23ea8)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -79,8 +78,8 @@ You can view the report here: [Pizza Sales Analysis Report](report.pdf)
 
 ## Tableau Dashboard
 
-This README provides instructions on how to navigate and utilize the **Pizza Sales Dashboard**. The dashboard provides insights into pizza sales, revenue, order trends, and performance metrics. There are two navigation buttons available: **Home** and **Best/Worst Pizzas**.
-
+- A detailed Tableau Dashboard has been developed to explore the data interactively.
+- Access the dashboard here[Pizza Sales Tableau Dashboard](https://public.tableau.com/app/profile/latha.charuguntla5375/viz/Best_WorstSellerPizza/BestWorstPizzasSeller)
 ---
 
 ## 1. Navigation Buttons
@@ -154,6 +153,4 @@ The **Best/Worst Pizzas** button provides insights into top and bottom-performin
 
 This dashboard is designed to provide actionable insights for business optimization and strategic decision-making in the pizza sales domain.
 
-- A detailed Tableau Dashboard has been developed to explore the data interactively.
-- Access the dashboard here[Pizza Sales Tableau Dashboard](https://public.tableau.com/app/profile/latha.charuguntla5375/viz/Best_WorstSellerPizza/BestWorstPizzasSeller)
 
