@@ -1,5 +1,6 @@
 # Pizza Sales Dataset: SQL Analysis
-![image](https://github.com/user-attachments/assets/1528c998-aee7-4a1a-8556-48fb384255c9) ![image](https://github.com/user-attachments/assets/036608eb-20e7-4756-aa56-8e8891b23ea8)
+![image](https://github.com/user-attachments/assets/f9a2078b-d586-49f2-8d0c-390492ef5423) ![image](https://github.com/user-attachments/assets/0ecab100-5de4-4796-a1b7-cafa91e69aa5)
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -142,12 +143,6 @@ The **Best/Worst Pizzas** button provides insights into top and bottom-performin
 3. **Interpret the Visualizations**:
    - Bar charts, pie charts, and line graphs provide clear insights into sales performance.
    - Compare metrics across pizza categories, sizes, and time periods to make informed decisions.
-
----
-
-## 3. Notes
-- Ensure to interact with all visualizations to uncover deeper insights.
-- For better analysis, hover over charts and graphs to view specific data points.
 
 ---
 
