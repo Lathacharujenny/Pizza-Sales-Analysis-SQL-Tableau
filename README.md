@@ -1,5 +1,5 @@
 # Pizza Sales Dataset: SQL Analysis
-![image](https://github.com/user-attachments/assets/f9a2078b-d586-49f2-8d0c-390492ef5423) ![image](https://github.com/user-attachments/assets/0ecab100-5de4-4796-a1b7-cafa91e69aa5)
+![image](https://github.com/user-attachments/assets/e9390c06-e7a6-4c28-b06c-4df268134e98)
 
 
 ## Table of Contents
