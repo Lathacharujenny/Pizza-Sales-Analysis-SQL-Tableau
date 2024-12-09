@@ -78,6 +78,82 @@ A detailed PDF report containing:
 You can view the report here: [Pizza Sales Analysis Report](report.pdf)
 
 ## Tableau Dashboard
+
+This README provides instructions on how to navigate and utilize the **Pizza Sales Dashboard**. The dashboard provides insights into pizza sales, revenue, order trends, and performance metrics. There are two navigation buttons available: **Home** and **Best/Worst Pizzas**.
+
+---
+
+## 1. Navigation Buttons
+
+### **Home**
+The **Home** button provides an overview of the following metrics and visualizations:
+
+- **Key Metrics**:
+  - Total Revenue: Displays the overall revenue generated.
+  - Average Order Value: Shows the average value per order.
+  - Total Pizzas Sold: The total number of pizzas sold.
+  - Total Orders: Total number of orders placed.
+  - Average Pizzas Per Order: The average number of pizzas in an order.
+
+- **Busiest Hours & Weeks**:
+  - **Hours**: Highlights peak sales hours (e.g., 12:00 PM–1:00 PM and 4:00 PM–7:00 PM).
+  - **Weeks**: Displays the weekly order trend with significant peaks (e.g., week 48).
+
+- **Hourly and Weekly Trends**:
+  - Hourly sales trends split by pizza categories (e.g., Chicken, Classic, Supreme, Veggie).
+  - Weekly trends for total orders.
+
+- **Sales Performance**:
+  - **Category**: Identifies which pizza category (e.g., Classic, Chicken) contributed most to total sales, orders, and pizzas sold.
+  - **Size**: Shows sales distribution across different pizza sizes (e.g., Large, Medium, Regular).
+
+- **Sales Breakdown**:
+  - Pie chart representation of total sales split by pizza category.
+  - Percentage of sales by pizza size (e.g., Large contributes to 45.69%).
+
+---
+
+### **Best/Worst Pizzas**
+The **Best/Worst Pizzas** button provides insights into top and bottom-performing pizzas:
+
+- **Best Pizza Overall**:
+  - Identifies the pizza that contributed most to revenue, quantity sold, and total orders.
+  - Example: The "Thai Chicken Pizza" is the top contributor to maximum revenue.
+
+- **Worst Pizza Overall**:
+  - Displays the pizza with the lowest performance in revenue, quantity sold, and orders.
+
+- **Top 5 and Bottom 5 Pizzas**:
+  - **By Revenue**: Shows the top and bottom 5 pizzas based on revenue.
+  - **By Total Pizzas Sold**: Highlights the top and bottom 5 pizzas based on quantity sold.
+  - **By Total Orders**: Lists pizzas ranked by total orders.
+
+---
+
+## 2. How to Use
+
+1. **Select the Navigation Buttons**:
+   - Click on **Home** for overall sales and performance insights.
+   - Click on **Best/Worst Pizzas** to explore the best and worst-performing pizzas.
+
+2. **Filter Options**:
+   - Use filters for **Pizza Category** and **Order Date** to refine the displayed data.
+   - Adjust the date slider to analyze data for specific periods within the available range.
+
+3. **Interpret the Visualizations**:
+   - Bar charts, pie charts, and line graphs provide clear insights into sales performance.
+   - Compare metrics across pizza categories, sizes, and time periods to make informed decisions.
+
+---
+
+## 3. Notes
+- Ensure to interact with all visualizations to uncover deeper insights.
+- For better analysis, hover over charts and graphs to view specific data points.
+
+---
+
+This dashboard is designed to provide actionable insights for business optimization and strategic decision-making in the pizza sales domain.
+
 - A detailed Tableau Dashboard has been developed to explore the data interactively.
 - Access the dashboard here[Pizza Sales Tableau Dashboard](https://public.tableau.com/app/profile/latha.charuguntla5375/viz/Best_WorstSellerPizza/BestWorstPizzasSeller)
 
