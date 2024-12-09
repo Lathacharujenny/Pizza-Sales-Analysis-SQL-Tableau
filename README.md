@@ -9,18 +9,19 @@
 4. [Questions Answered](#questions-answered)
 6. [Key Insights](#key-insights)
 7. [Generated Report](#generated-report)
+8. [Tableau Dashboard](#tableau-dashboard)
 
 
 ---
 
 ## Project Overview
-This project involves analyzing a pizza sales dataset using SQL to answer a set of predefined business questions. The goal was to explore the sales data, identify trends, and provide actionable insights for better business decisions.
+This project involves analyzing a pizza sales dataset using SQL and Tableau to answer a set of predefined business questions. The goal was to explore the sales data, identify trends, and provide actionable insights for better business decisions.
 
 ---
 
 ## Objective
 The objective of this analysis was to:
-1. Perform **data analysis** using SQL.
+1. Perform **data analysis** using SQL and Tableau.
 2. Answer business-specific questions related to pizza sales, such as identifying the top-selling pizzas, revenue trends, and order patterns.
 3. Present the findings in a comprehensive report.
 
@@ -29,7 +30,8 @@ The objective of this analysis was to:
 ## Steps Involved
 1. **Data Cleaning**: Ensured data consistency by resolving missing values and formatting issues.
 2. **SQL Analysis**: Used SQL queries to retrieve, aggregate, and analyze data.
-3. **Report Compilation**: Created a PPT summarizing the findings, converted to a PDF, and included screenshots of SQL scripts and outputs.
+3. **Visualization**: Developed a Tableau Dashboard to display insights interactively.
+4. **Report Compilation**: Created a PPT summarizing the findings, converted to a PDF, and included screenshots of SQL scripts and outputs.
 
 ---
 
@@ -74,4 +76,8 @@ A detailed PDF report containing:
 - A summary of findings presented in slides.
 
 You can view the report here: [Pizza Sales Analysis Report](report.pdf)
+
+## Tableau Dashboard
+A detailed Tableau Dashboard has been developed to explore the data interactively.
+Access the dashboard here[Pizza Sales Tableau Dashboard](https://public.tableau.com/app/profile/latha.charuguntla5375/viz/Best_WorstSellerPizza/BestWorstPizzasSeller)
 
