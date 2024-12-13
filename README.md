@@ -80,7 +80,7 @@ You can view the report here: [Pizza Sales Analysis Report](report.pdf)
 ## Tableau Dashboard
 
 - A detailed Tableau Dashboard has been developed to explore the data interactively.
-- Access the dashboard here[Pizza Sales Tableau Dashboard](https://public.tableau.com/app/profile/latha.charuguntla5375/viz/Best_WorstSellerPizza/BestWorstPizzasSeller)
+- Access the dashboard here[Pizza Sales Tableau Dashboard](https://public.tableau.com/app/profile/latha.charuguntla5375/viz/Best_WorstSellerPizza/Home?publish=yes)
 ---
 
 ## 1. Navigation Buttons
